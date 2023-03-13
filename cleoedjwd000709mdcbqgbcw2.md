@@ -9,7 +9,7 @@ ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1677597721752/262f7
 
 Week 3
 
-3/13/2023 | xxx min
+3/13/2023 | 295 min
 
 Manage:
 
@@ -18,7 +18,21 @@ Manage:
 
 For Exam:
 
+* TOEIC 1 finish the first test | 47 min
+    
+* Search for research interests and labs | 50 min
+    
+
 Others:
+
+* MacBook Basic Setting
+    
+* Learn to write mathematical formulas in Markdown with LaTex
+    
+* Backup the blogs on HashNode with GitHub
+    
+* Chatting with potential members of the product club
+    
 
 ---
 
