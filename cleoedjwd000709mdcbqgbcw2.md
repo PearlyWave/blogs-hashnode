@@ -9,6 +9,22 @@ ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1677597721752/262f7
 
 Week 3
 
+3/14/2023 | 90 min
+
+For exam:
+
+* Study Plan | 90 min
+    
+
+Others:
+
+* Use GPT
+    
+* Prepare podcast
+    
+* Product club HR
+    
+
 3/13/2023 | 295 min
 
 Manage:
