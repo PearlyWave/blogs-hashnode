@@ -9,6 +9,26 @@ ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1677597721752/262f7
 
 Week 3
 
+3/15/2023 | 210/415 min
+
+For Exam:
+
+* Computer Organization Course and self-learn | 210 min
+    
+
+Others:
+
+* Product | 205 min
+    
+    * Init the learning doc
+        
+    * Make a list of my product ideas
+        
+    * Arrange tasks for Miles
+        
+
+// On tomorrow, I should put more time into Calculus and TOEIC. Furthermore, I need to prepare for the trip to Shanghai.
+
 3/14/2023 | 90 min
 
 For exam:
