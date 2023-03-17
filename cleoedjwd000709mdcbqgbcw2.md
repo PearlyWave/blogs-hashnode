@@ -7,7 +7,15 @@ ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1677597721752/262f7
 
 ---
 
-Week 3 3/17/2023 | 210 min
+Week 3
+
+3/18/2023 | xxx min
+
+// Shanghai Day 2
+
+For exam:
+
+3/17/2023 | 210 min
 
 // Shanghai Day 1
 
