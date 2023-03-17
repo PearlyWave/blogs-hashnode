@@ -7,7 +7,19 @@ ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1677597721752/262f7
 
 ---
 
-Week 3
+Week 3 3/17/2023 | 210 min
+
+// Shanghai Day 1
+
+For Exam:
+
+* Calculus 210 min
+    
+
+Others:
+
+* Arrive at Shanghai
+    
 
 3/15/2023 | 210/415 min
 
