@@ -9,11 +9,16 @@ ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1677597721752/262f7
 
 Week 3
 
-3/18/2023 | xxx min
+3/19/2023
+
+3/18/2023 | 135 min
 
 // Shanghai Day 2
 
 For exam:
+
+* Calculus Course | 135 min
+    
 
 3/17/2023 | 210 min
 
