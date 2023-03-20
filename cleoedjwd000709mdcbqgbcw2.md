@@ -9,7 +9,17 @@ ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1677597721752/262f7
 
 Week 3
 
-3/19/2023
+3/20/2023 | 70 min
+
+* OS | 70 min
+    
+
+3/19/2023 | 255 min
+
+* TOEIC Exam | 120 min
+    
+* Possibility Course | 135 min
+    
 
 3/18/2023 | 135 min
 
