@@ -9,6 +9,11 @@ ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1677597721752/262f7
 
 Week 3
 
+3/21/2023 | 135 min
+
+* Formal language lecture | 135 min
+    
+
 3/20/2023 | 70 min
 
 * OS | 70 min
