@@ -9,6 +9,11 @@ ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1677597721752/262f7
 
 Week 3
 
+3/22/2023 ｜ 30 min
+
+* Study the idiom "天下为公" ｜ 30 min
+    
+
 3/21/2023 | 135 min
 
 * Formal language lecture | 135 min
