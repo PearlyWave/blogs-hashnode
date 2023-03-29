@@ -38,25 +38,25 @@ tags: resume
 * 情感状态：小母单，欢迎介绍 XD
     
 
-### 作品
+### Works 作品
 
-* Skilla 及其理念
+* [Skilla](https://v2ex.com/t/847040) 及其理念
     
 
-### Work
+### Work 关于事业
 
 目前无业，正在寻找工作或者实习中，如果你有好的机会请联系我（eg. e-mail, wechat)。
 
-#### Titles at present
+#### Titles at present 目前的职务
 
 * **Organizer** of
     
-    * A study club
+    * A club on products and learning 一个关于产品和学习的俱乐部
         
-    * An ACGN club
+    * An ACGN club 一个涉及动画、漫画、游戏、小说的俱乐部
         
 
-#### Applying 申请中的职务
+#### Titles applying for 申请中的职务
 
 * **Volunteer** of 上海图书馆
     
