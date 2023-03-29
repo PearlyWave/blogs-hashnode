@@ -7,7 +7,28 @@ ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1677597721752/262f7
 
 ---
 
+Week 4
+
+3/29
+
+* Learning painting | 110 min
+    
+
+3/28
+
+* Try the Simple Psychology APP
+    
+    * the first-time evaluation of mental health
+        
+    * a lecture about failure
+        
+
 Week 3
+
+3/23/2023 ｜ 120 min
+
+* write daily report
+    
 
 3/22/2023 ｜ 30 min
 
