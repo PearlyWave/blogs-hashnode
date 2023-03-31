@@ -9,6 +9,13 @@ ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1677597721752/262f7
 
 Week 4
 
+3/31
+
+* Join Acora Reading Share （Book: The Hard Thing About Hard Things 创业维艰——如何完成比难更难的事）
+    
+* Visit Huiju Temple
+    
+
 3/29
 
 * Learning painting | 110 min
