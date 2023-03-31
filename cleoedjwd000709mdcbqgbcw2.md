@@ -11,9 +11,18 @@ Week 4
 
 3/31
 
+昆山 day2
+
 * Join Acora Reading Share （Book: The Hard Thing About Hard Things 创业维艰——如何完成比难更难的事）
     
 * Visit Huiju Temple 慧聚寺
+    
+
+3/30
+
+昆山 day1
+
+* 参观亭林园
     
 
 3/29
