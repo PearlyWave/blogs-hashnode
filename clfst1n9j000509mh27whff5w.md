@@ -17,7 +17,7 @@ tags: resume
     
 * e-mail: sstudioeric@gmail.com
     
-* blog: ericji.hashnode.dev
+* blog: [ericji.hashnode.dev](http://ericji.hashnode.dev)
     
 * GitHub: [https://github.com/PearlyWave](https://github.com/PearlyWave)
     
