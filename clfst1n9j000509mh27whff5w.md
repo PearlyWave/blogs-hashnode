@@ -9,15 +9,15 @@ tags: resume
 
 ## 基本信息
 
-* 姓名: Eric Ji
+* Name: Eric Ji
     
-* Base: Shanghai 上海
+* Base: Shanghai
     
-* 电话: 18944664680
+* Phone number: 18944664680
     
-* e-mail: sstudioeric@gmail.com
+* E-mail: sstudioeric@gmail.com
     
-* blog: [ericji.hashnode.dev](http://ericji.hashnode.dev)
+* Blog: [ericji.hashnode.dev](http://ericji.hashnode.dev)
     
 * GitHub: [https://github.com/PearlyWave](https://github.com/PearlyWave)
     
