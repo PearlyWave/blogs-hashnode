@@ -37,7 +37,7 @@ tags: resume
 
 * **主理人** of
     
-    * A club on products and learning 一个关于产品和学习的俱乐部
+    * A club on products and learning 一个关于产品和学习的俱乐部，内有读书会活动
         
     * An ACGN club 一个涉及动画、漫画、游戏、小说的俱乐部
         
