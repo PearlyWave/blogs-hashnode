@@ -11,7 +11,7 @@ tags: resume
 
 * 姓名: Eric Ji
     
-* Base: 上海
+* Base: Shanghai 上海
     
 * 电话: 18944664680
     
