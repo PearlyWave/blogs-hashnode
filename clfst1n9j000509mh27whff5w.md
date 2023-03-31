@@ -58,7 +58,7 @@ tags: resume
 * 项目管理
     
 
-#### Fileds 目前感兴趣的行业
+#### Fileds 目前感兴趣的领域
 
 * 儿童编程教育
     
@@ -67,6 +67,8 @@ tags: resume
 * AIGC
     
 * 基础教育
+    
+* 投资（eg. 量化、风投）
     
 
 ### Hobbies 爱好
