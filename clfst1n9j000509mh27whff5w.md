@@ -35,7 +35,7 @@ tags: resume
 
 #### Titles at present 目前的职务
 
-* **Organizer** of
+* **主理人** of
     
     * A club on products and learning 一个关于产品和学习的俱乐部
         
