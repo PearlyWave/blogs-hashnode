@@ -7,9 +7,11 @@ tags: resume
 
 ---
 
-## 基本信息
+## Basic Information 基本信息
 
-* Name: Eric Ji
+* Name: Eric Ji/吉翔
+    
+* Education: *2017.9~2021.6* Harbin Engineering University/HEU B.S. of Computer Science 哈尔滨工程大学计算机科学与技术专业的工学学士
     
 * Base: Shanghai
     
