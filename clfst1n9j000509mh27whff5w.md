@@ -13,7 +13,7 @@ tags: resume
     
 * Education: *2017.9~2021.6* Harbin Engineering University/HEU B.S. of Computer Science 哈尔滨工程大学计算机科学与技术专业的工学学士
     
-* Work experience: 埃森哲中国后端（*2021.7～2022.1 7 months*）和数据分析（*2022.5～2022.10 6 months*）
+* Work experience: 埃森哲中国福特项目(at Shanghai)后端（*2021.7～2022.1 7 months*）和数据分析（*2022.5～2022.10 6 months*）
     
 * Base: Shanghai
     
