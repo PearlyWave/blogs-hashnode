@@ -26,7 +26,7 @@ tags: resume
 
 * [Skilla](https://v2ex.com/t/847040) 及其理念-Creator
     
-* 哈尔滨工程大学短视频大赛[宣传片](https://drive.google.com/file/d/1hLS6X6Uv2o8rxBV_k_bGAU1g4Wo4CKRA/view?usp=share_link)\-编导
+* 短视频大赛[宣传片](https://drive.google.com/file/d/1hLS6X6Uv2o8rxBV_k_bGAU1g4Wo4CKRA/view?usp=share_link)\-编导 at ving微电影社团 哈尔滨工程大学
     
 
 ### Work 关于事业
