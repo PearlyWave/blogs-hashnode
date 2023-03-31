@@ -13,7 +13,7 @@ Week 4
 
 * Join Acora Reading Share （Book: The Hard Thing About Hard Things 创业维艰——如何完成比难更难的事）
     
-* Visit Huiju Temple
+* Visit Huiju Temple 慧聚寺
     
 
 3/29
