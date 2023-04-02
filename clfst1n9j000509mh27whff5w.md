@@ -118,6 +118,11 @@ tags: resume
 
 在上海游手好闲、无忧无虑地玩耍中。欢迎各式饭搭子、玩搭子和学搭子找我。
 
+### 合作习惯
+
+* 如果你想讨论一个问题，请自己先想清楚。如果问题需要特定背景知识，请描述清楚。推荐阅读[提问的智慧](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way)（文章）。
+    
+
 ### Skills 技能
 
 #### Programming 编程
@@ -145,16 +150,22 @@ Those are the frameworks that I have used:
 * iPhone & MacBook
     
 
-#### 想买的，欢迎送我 XD
+#### 想买的/购物清单，欢迎送我 XD
 
 * VR 眼镜
+    
+* Wacom 影拓数位屏
+    
+* 汽车：Tesla/Volvo/理想
+    
+* 大别墅
     
 
 ## 想要随时了解我的动态
 
-* 使用 [Newsletter 订阅](https://ericji.hashnode.dev/newsletter)
+* （推荐）使用 [Newsletter 订阅](https://ericji.hashnode.dev/newsletter)
     
-* 使用 [RSS 订阅](https://ericji.hashnode.dev/rss.xml)
+* （推荐）使用 [RSS 订阅](https://ericji.hashnode.dev/rss.xml)
     
 * 关注[我的 Twitter](https://twitter.com/Eric38251454)
     
