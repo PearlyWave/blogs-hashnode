@@ -29,7 +29,8 @@ tags: resume
 
 ## 目前在做的事情
 
-*待更新*
+* 这篇[Log](https://ericji.hashnode.dev/log)记录着我每天做了什么，一般在每天的晚间更新（23:00 左右)。
+    
 
 ### Works 作品
 
@@ -98,4 +99,4 @@ tags: resume
 
 ### Collected Articles 精选文章
 
-// 待更新
+// tbd
