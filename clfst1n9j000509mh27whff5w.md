@@ -170,7 +170,7 @@ Those are the frameworks that I have used:
     
 
 ## Selected Articles 精选文章  
-\- [《知道做到：自学的科学》精读笔记——一堆学习方法（连载中）](https://mp.weixin.qq.com/s/jIFTdLSrL9JTZHsBiKxFvw)
+* [《知道做到：自学的科学》精读笔记——一堆学习方法（连载中）](https://mp.weixin.qq.com/s/jIFTdLSrL9JTZHsBiKxFvw)
 
 ## 值得推荐的好物
 
