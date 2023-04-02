@@ -35,7 +35,7 @@ tags: resume
 * 这篇 [Log](https://ericji.hashnode.dev/log) 记录着我每天做了什么，一般在每天的晚间更新（23:00 左右)。
     
 
-### Works 作品
+## Works 作品
 
 * 2022.3~now [Skilla](https://v2ex.com/t/847040) 及其理念-Creator
     
@@ -44,7 +44,7 @@ tags: resume
 * 2021.1~2021.6 Stream: 一个生活管理 APP ，有想法记录、习惯培养和打卡等功能。它是我的本科毕业设计项目。
     
 
-### Work 关于事业
+## Work 关于事业
 
 目前无业，正在寻找工作或者实习中，如果你有好的机会请联系我（eg. e-mail, wechat)。
 
@@ -71,12 +71,12 @@ tags: resume
 * **运营助理** Issac（周炀皓）的青年创投读书会（社群人数约 1150 人，截止2023年4月2日），负责每日荐书和社群监控
     
 
-#### Titles applying for 申请中的职务/想做的职务
+### Positions applying for 申请中的职务/想做的职务
 
 * **Volunteer** of 上海图书馆
     
 
-#### Positions I want 我正在寻找的工作类型
+### Positions I want 我正在寻找的工作类型
 
 * 社群运营
     
@@ -87,7 +87,7 @@ tags: resume
 * 项目管理
     
 
-#### Interested fileds 目前感兴趣的领域
+### Interested fileds 目前感兴趣的领域
 
 * 文化和图书
     
@@ -106,7 +106,7 @@ tags: resume
 * ACGN / 二次元
     
 
-### Hobbies 爱好
+## Hobbies 爱好
 
 喜欢观察和收集。喜欢用摄影或者绘画记录生活中的各种小美好和新奇事物。
 
@@ -122,16 +122,19 @@ tags: resume
 
 在上海游手好闲、无忧无虑地玩耍中。欢迎各式饭搭子、玩搭子和学搭子找我。
 
-### 合作习惯
+## 合作习惯
 
 在联系我之前，欢迎阅读以下内容，从而更加了解我，提高我们沟通和合作的效率。
 
+* 欢迎和我随便聊聊，请和我约一个时间吧。
+
 * 如果你想讨论一个问题，请自己先想清楚。如果问题需要特定背景知识，请描述清楚。推荐阅读[提问的智慧](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way)（文章）。
+
     
 
-### Skills 技能
+## Skills 技能
 
-#### Programming 编程
+### Programming 编程
 
 I have written code with:
 
@@ -147,7 +150,7 @@ Those are the frameworks that I have used:
 * Pandas for Data Analysis
     
 
-#### To Learn List 打算学习的
+### To Learn List 打算学习的
 
 * 足球
     
@@ -166,16 +169,17 @@ Those are the frameworks that I have used:
 * 论文读写
     
 
-### Collected Articles 精选文章
+## Selected Articles 精选文章  
+\- [《知道做到：自学的科学》精读笔记——一堆学习方法（连载中）](https://mp.weixin.qq.com/s/jIFTdLSrL9JTZHsBiKxFvw)
 
-### 值得推荐的好物
+## 值得推荐的好物
 
-#### 已买的
+### 已买的
 
 * iPhone & MacBook
     
 
-#### 想买的/购物清单，欢迎送我 XD
+### 想买的/购物清单，欢迎送我 XD
 
 * VR 眼镜
     
