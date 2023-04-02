@@ -45,10 +45,12 @@ tags: resume
 
 * **主理人** of
     
-    * A club on products and learning 一个关于产品和学习的俱乐部，内有读书会活动
+    * A club on products and learning 一个关于产品和学习的俱乐部，内有读书会活动（
         
-    * An ACGN club 一个涉及动画、漫画、游戏、小说的俱乐部
+    * An ACGN club 一个涉及动画、漫画、游戏、小说的俱乐部（6 人）
         
+* **运营助理** Issac
+    
 
 #### Titles applying for 申请中的职务
 
@@ -98,3 +100,7 @@ tags: resume
 ### Collected Articles 精选文章
 
 // tbd
+
+### 值得推荐的好物
+
+* 苹果的手机和电脑
