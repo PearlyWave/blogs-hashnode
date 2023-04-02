@@ -24,10 +24,11 @@ tags: resume
     
 * GitHub: [https://github.com/PearlyWave](https://github.com/PearlyWave)
     
-
-## 目前在做的事情
-
-* 这篇[Log](https://ericji.hashnode.dev/log)记录着我每天做了什么，一般在每天的晚间更新（23:00 左右)。
+* Twitter: [Eric Ji](https://twitter.com/Eric38251454)
+    
+* 微信公众号: Eric 的猜想
+    
+* 这篇 [Log](https://ericji.hashnode.dev/log) 记录着我每天做了什么，一般在每天的晚间更新（23:00 左右)。
     
 
 ### Works 作品
@@ -35,6 +36,8 @@ tags: resume
 * [Skilla](https://v2ex.com/t/847040) 及其理念-Creator
     
 * 短视频大赛[宣传片](https://drive.google.com/file/d/1hLS6X6Uv2o8rxBV_k_bGAU1g4Wo4CKRA/view?usp=share_link)\-编导 at ving微电影社团 哈尔滨工程大学
+    
+* Stream: 一个生活管理 APP ，有想法记录、习惯培养和打卡等功能。它是我的本科毕业设计项目。
     
 
 ### Work 关于事业
@@ -45,10 +48,22 @@ tags: resume
 
 * **主理人** of
     
-    * A club on products and learning 一个关于产品和学习的俱乐部，内有读书会活动（活跃人数：6）
+    * 小组一：A club on products and learning 一个关于产品和学习的小组，内有读书会活动（活跃人数：6）
         
-    * An ACGN club 一个涉及动画、漫画、游戏、小说的俱乐部（活跃人数：3）
+    * 小组二：An ACGN club 一个涉及动画、漫画、游戏、小说的小子（活跃人数：3）
         
+    * 最近在小组中做哪些事：
+        
+        1. 建立越来越多的小分队
+            
+        2. 组织各项团队活动
+            
+        3. 写小组汇报等文档
+            
+        4. 邀请新的小组成员
+            
+        5. 团队知识管理配置
+            
 * **运营助理** Issac（周炀皓）的青年创投读书会（社群人数约 1150 人，截止2023年4月2日）
     
 
@@ -103,10 +118,44 @@ tags: resume
 
 在上海游手好闲、无忧无虑地玩耍中。欢迎各式饭搭子、玩搭子和学搭子找我。
 
-### Collected Articles 精选文章
+### Skills 技能
 
-// tbd
+#### Programming 编程
+
+I have written code with:
+
+* Java
+    
+* Python
+    
+
+Those are the frameworks that I have used:
+
+* Spring Cloud for Back-end Development
+    
+* Pandas for Data Analysis
+    
+
+### Collected Articles 精选文章
 
 ### 值得推荐的好物
 
+#### 已买的
+
 * iPhone & MacBook
+    
+
+#### 想买的，欢迎送我 XD
+
+* VR 眼镜
+    
+
+## 想要随时了解我的动态
+
+* 使用 [Newsletter 订阅](https://ericji.hashnode.dev/newsletter)
+    
+* 使用 [RSS 订阅](https://ericji.hashnode.dev/rss.xml)
+    
+* 关注[我的 Twitter](https://twitter.com/Eric38251454)
+    
+* 关注微信公众号：Eric的猜想
