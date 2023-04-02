@@ -18,8 +18,6 @@ tags: resume
     
 * Base: Shanghai
     
-* Phone number: 18944664680
-    
 * E-mail: sstudioeric@gmail.com
     
 * Blog: [ericji.hashnode.dev](http://ericji.hashnode.dev)
