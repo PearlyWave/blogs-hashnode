@@ -45,11 +45,11 @@ tags: resume
 
 * **主理人** of
     
-    * A club on products and learning 一个关于产品和学习的俱乐部，内有读书会活动（
+    * A club on products and learning 一个关于产品和学习的俱乐部，内有读书会活动（活跃人数：6）
         
-    * An ACGN club 一个涉及动画、漫画、游戏、小说的俱乐部（6 人）
+    * An ACGN club 一个涉及动画、漫画、游戏、小说的俱乐部（活跃人数：3）
         
-* **运营助理** Issac
+* **运营助理** Issac（周炀皓）的青年创投读书会（社群人数约 1150 人，截止2023年4月2日）
     
 
 #### Titles applying for 申请中的职务
