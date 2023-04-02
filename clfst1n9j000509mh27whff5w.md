@@ -3,6 +3,7 @@ title: "Eric Ji's About me"
 datePublished: Tue Mar 28 2023 22:03:39 GMT+0000 (Coordinated Universal Time)
 cuid: clfst1n9j000509mh27whff5w
 slug: about-me
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/fT49QnFucQ8/upload/01e24949661ada5e7419bcfee8955f29.jpeg
 tags: resume
 
 ---
