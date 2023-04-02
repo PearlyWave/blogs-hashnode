@@ -120,6 +120,8 @@ tags: resume
 
 ### 合作习惯
 
+在联系我之前，欢迎阅读以下内容，从而更加了解我，提高我们沟通和合作的效率。
+
 * 如果你想讨论一个问题，请自己先想清楚。如果问题需要特定背景知识，请描述清楚。推荐阅读[提问的智慧](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way)（文章）。
     
 
@@ -139,6 +141,25 @@ Those are the frameworks that I have used:
 * Spring Cloud for Back-end Development
     
 * Pandas for Data Analysis
+    
+
+#### To Learn List 打算学习的
+
+* 足球
+    
+* 画漫画
+    
+* Hip-hop
+    
+* 游戏制作
+    
+* 日语
+    
+* 编导
+    
+* 写小说
+    
+* 论文读写
     
 
 ### Collected Articles 精选文章
