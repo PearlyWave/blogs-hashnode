@@ -1,5 +1,5 @@
 ---
-title: "Eric Ji's About me"
+title: "Eric Ji's About Me"
 datePublished: Tue Mar 28 2023 22:03:39 GMT+0000 (Coordinated Universal Time)
 cuid: clfst1n9j000509mh27whff5w
 slug: about-me
@@ -127,9 +127,8 @@ tags: resume
 在联系我之前，欢迎阅读以下内容，从而更加了解我，提高我们沟通和合作的效率。
 
 * 欢迎和我随便聊聊，请和我约一个时间吧。
-
+    
 * 如果你想讨论一个问题，请自己先想清楚。如果问题需要特定背景知识，请描述清楚。推荐阅读[提问的智慧](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way)（文章）。
-
     
 
 ## Skills 技能
@@ -169,8 +168,12 @@ Those are the frameworks that I have used:
 * 论文读写
     
 
-## Selected Articles 精选文章  
+## Selected Articles 精选文章
+
+* [我的信息源和产品点子](https://cowyo30m53.feishu.cn/docx/Nc68d70Sqouludxsk3ec7457nFv)
+    
 * [《知道做到：自学的科学》精读笔记——一堆学习方法（连载中）](https://mp.weixin.qq.com/s/jIFTdLSrL9JTZHsBiKxFvw)
+    
 
 ## 值得推荐的好物
 
