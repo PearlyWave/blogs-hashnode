@@ -68,8 +68,6 @@ tags: resume
             
         5. 团队知识管理
             
-* **运营助理** Issac（周炀皓）的青年创投读书会（社群人数约 1150 人，截止2023年4月2日），负责每日荐书和社群监控
-    
 
 ### Positions applying for 申请中的职务/想做的职务
 
@@ -149,7 +147,7 @@ Those are the frameworks that I have used:
 * Pandas for Data Analysis
     
 
-### To Learn List 打算学习的
+### To Learn 打算学习的
 
 * 足球
     
@@ -170,7 +168,9 @@ Those are the frameworks that I have used:
 
 ## Selected Articles 精选文章
 
-* [我的信息源和产品点子](https://cowyo30m53.feishu.cn/docx/Nc68d70Sqouludxsk3ec7457nFv)
+* [我的信息源](https://ericji.hashnode.dev/input#heading-5pkt5a6ilwrqowiiikujpmoi8)
+    
+* [我的产品点子](https://cowyo30m53.feishu.cn/docx/Nc68d70Sqouludxsk3ec7457nFv)
     
 * [《知道做到：自学的科学》精读笔记——一堆学习方法（连载中）](https://mp.weixin.qq.com/s/jIFTdLSrL9JTZHsBiKxFvw)
     
@@ -180,6 +180,8 @@ Those are the frameworks that I have used:
 ### 已买的
 
 * iPhone & MacBook
+    
+* 投影仪
     
 
 ### 想买的/购物清单，欢迎送我 XD
