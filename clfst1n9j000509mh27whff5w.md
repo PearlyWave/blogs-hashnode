@@ -168,7 +168,7 @@ Those are the frameworks that I have used:
 
 ## Selected Articles 精选文章
 
-* [我的信息源](https://ericji.hashnode.dev/input#heading-5pkt5a6ilwrqowiiikujpmoi8)
+* [我的信息源](https://ericji.hashnode.dev/input)
     
 * [我的产品点子](https://cowyo30m53.feishu.cn/docx/Nc68d70Sqouludxsk3ec7457nFv)
     
