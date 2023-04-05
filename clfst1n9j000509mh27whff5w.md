@@ -50,7 +50,9 @@ tags: resume
 
 #### Titles at present 目前的职务
 
-* **主理人** of
+* **主理人&Founder** of
+    
+    // 想要加入请与我联系噢，欢迎！
     
     * 小组一：A club on products and learning 一个关于产品和学习的小组，内有读书会活动（活跃人数：6）
         
@@ -90,8 +92,6 @@ tags: resume
 * 文化和图书
     
 * 儿童编程教育
-    
-* 机器人
     
 * 新能源汽车
     
@@ -212,6 +212,8 @@ Those are the frameworks that I have used:
 
 如果你想把自己的主页链接贴到这里，请联系我哦！
 
-* 吉普 河海大学硕士研究生在读，通信工程方向
+* [吉普](https://morningstar369.com/)\-河海大学硕士研究生在读，通信工程方向
     
-* 何浩源 南京大学硕士研究生在读，人工智能方向
+* [何浩源](http://www.lamda.nju.edu.cn/hehy/)\-南京大学硕士研究生在读，人工智能方向
+    
+* [岳小斌](https://www.cnblogs.com/Severus-Cavendish/)\-东南大学硕士研究生在读，信息安全方向
