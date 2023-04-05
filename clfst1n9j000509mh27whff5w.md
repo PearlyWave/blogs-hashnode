@@ -91,6 +91,8 @@ tags: resume
     
 * 儿童编程教育
     
+* 机器人
+    
 * 新能源汽车
     
 * AIGC
@@ -204,3 +206,12 @@ Those are the frameworks that I have used:
 * 关注[我的 Twitter](https://twitter.com/Eric38251454)
     
 * 关注微信公众号：Eric的猜想
+    
+
+## 友情链接
+
+如果你想把自己的主页链接贴到这里，请联系我哦！
+
+* 吉普 河海大学硕士研究生在读，通信工程方向
+    
+* 何浩源 南京大学硕士研究生在读，人工智能方向
