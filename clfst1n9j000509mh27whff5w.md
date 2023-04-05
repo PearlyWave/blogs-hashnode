@@ -54,9 +54,9 @@ tags: resume
     
     // 想要加入请与我联系噢，欢迎！
     
-    * 小组一：A club on products and learning 一个关于产品和学习的小组，内有读书会活动（活跃人数：6）
+    * 小组一：A club on products and learning 一个关于产品和学习的小组，内有读书会活动（活跃人数：6/11）
         
-    * 小组二：An ACGN club 一个涉及动画、漫画、游戏、小说的小子（活跃人数：3）
+    * 小组二：An ACGN club 一个涉及动画、漫画、游戏、小说的小子（活跃人数：3/6）
         
     * 最近在小组中做哪些**社群运营**工作：
         
