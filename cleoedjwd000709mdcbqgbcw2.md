@@ -13,6 +13,10 @@ ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1677597721752/262f7
     
 * 给实验室起了名字（响水实验室 XSLab）画了 logo
     
+* 设立了实验室附属学习小组——XSLearning Club
+    
+* 访问了响水中学和灌江中学
+    
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1680793988264/10619a62-bd42-420f-a235-6dbff5eceffd.jpeg align="center")
     
 
