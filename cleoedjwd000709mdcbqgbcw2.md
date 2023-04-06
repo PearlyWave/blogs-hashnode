@@ -7,6 +7,15 @@ ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1677597721752/262f7
 
 ---
 
+4/6
+
+* 在共享书架中增加书目
+    
+* 给实验室起了名字（响水实验室 XSLab）画了 logo
+    
+    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1680793988264/10619a62-bd42-420f-a235-6dbff5eceffd.jpeg align="center")
+    
+
 4/5
 
 * 开始建立第一个共享书架
