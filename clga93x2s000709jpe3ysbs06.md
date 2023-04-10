@@ -21,8 +21,12 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/oMpAz-DN-9I/up
         
     * 公益活动：共享书架
         
-* 成员来自：东南、河海、格拉斯哥、哈工程、南邮等高校以及其他企业
+* 成员来自：
     
+    * 高校：东南、河海、格拉斯哥、哈工程、南邮等
+        
+    * 企业：中国农业银行、蔚来汽车、埃森哲等
+        
 * 附属组织：
     
     * 一个学习小组 XSLearning Club （当前人数：6）
