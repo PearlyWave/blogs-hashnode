@@ -37,9 +37,9 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/oMpAz-DN-9I/up
             
 * 附属组织：
     
-    * 一个学习小组 XSLearning Club （当前人数：6），主要负责成果宣发
+    * 一个学习社群 XSLearning Club （当前人数：6），主要负责成果宣发
         
-    * 一个二次元创作小组 ACGN Club （当前人数：6），负责漫画、游戏等文化作品的开发
+    * 一个二次元创作俱乐部 ACGN Club （当前人数：6），负责漫画、游戏等文化作品的开发
         
 * Eric 最近在实验室中做哪些工作：
     
