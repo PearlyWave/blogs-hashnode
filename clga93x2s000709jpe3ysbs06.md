@@ -41,4 +41,4 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/oMpAz-DN-9I/up
         
     6. 团队知识管理
         
-* 暂时的学习目标：贝尔实验室
+* 暂时的学习目标：贝尔实验室、OpenAI
