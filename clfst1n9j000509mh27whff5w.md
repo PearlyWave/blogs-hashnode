@@ -63,7 +63,7 @@ tags: resume
 
 ### 组织创建与管理
 
-* 于 2023 年 3 月下旬创立了[响水实验室 XSLab](https://ericji.hashnode.dev/xslab)。在实验室中，兼任以下职务：
+* 于 2023 年 3 月下旬创立了[响水实验室 XSLab](https://ericji.hashnode.dev/xslab)。在实验室中，除了日常统筹管理之外，还兼任以下职务：
     
     * 战略与理论推演
         
