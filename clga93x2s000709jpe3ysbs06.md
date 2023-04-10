@@ -25,7 +25,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/oMpAz-DN-9I/up
     
     * 高校：东南、河海、格拉斯哥、哈工程、南邮等
         
-    * 企业：中国农业银行、蔚来汽车、埃森哲等
+    * 企业：上海精神卫生中心、中国农业银行、蔚来汽车、埃森哲等
         
 * 附属组织：
     
