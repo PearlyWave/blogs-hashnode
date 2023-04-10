@@ -27,7 +27,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/oMpAz-DN-9I/up
         
         * \*注：格拉斯哥大学位于苏格兰，2023QS全球排名第82名
             
-    * 企业经历：上海精神卫生中心、中国农业银行、蔚来汽车、埃森哲等
+    * 企业经历：上海精神卫生中心、中国农业银行、蔚来汽车、埃森哲、福特中国、Zoom等
         
     * 实验室主体（不含附属组织）学历情况：
         
