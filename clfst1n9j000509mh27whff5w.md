@@ -41,48 +41,18 @@ tags: resume
     
 * 2020 短视频大赛[宣传片](https://drive.google.com/file/d/1hLS6X6Uv2o8rxBV_k_bGAU1g4Wo4CKRA/view?usp=share_link)\-编导 at ving微电影社团 哈尔滨工程大学
     
-* 2021.1~2021.6 Stream: 一个生活管理 APP ，有想法记录、习惯培养和打卡等功能。它是我的本科毕业设计项目。
+* 2021.1~2021.6 Stream: 一个生活管理 APP ，有想法记录、习惯培养和打卡等功能。它是我的本科毕业设计项目
     
 
 ## Work 关于事业
 
 #### Titles 目前的职务
 
-* **Founder & Leader(2023.3~now)** of 响水实验室（XSLab）
+* **Founder & Leader(2023.3~now)** of [响水实验室（XSLab）](https://ericji.hashnode.dev/xslab)
     
-    // 想要加入请与我联系噢，欢迎！
+* **初始成员** of **智能传播交叉研究工作坊**（南开大学·新闻与传播学院）
     
-    * 当前人数：17
-        
-    * 目前在做：
-        
-        * 知识管理：阅读会、实验室刊物、语言学习
-            
-        * 基础研究：心理学、教育学、数学、计算机科学、人工智能（深度学习、自然语言处理）、商业、管理
-            
-        * 应用开发：产品开发、建筑设计、用户界面设计、餐饮、文创、室内设计、电影制作、二次元
-            
-        * 公益活动：共享书架
-            
-    * 成员来自：东南、河海、格拉斯哥、哈工程、南邮等高校以及其他企业
-        
-    * 附属组织：一个学习小组 XSLearning Club （当前人数：3，主创人员等新人中），进入门槛低
-        
-    * 最近在实验室中做哪些工作：
-        
-        1. 发展战略制定
-            
-        2. 探索和建立新的分支讨论主题
-            
-        3. 活动策划和组织
-            
-        4. 文档撰写和输出
-            
-        5. 新成员招入
-            
-        6. 团队知识管理
-            
-    * 暂时的学习目标：贝尔实验室
+    * 主攻新闻传播和人工智能的交叉领域
         
 
 ### Positions applying for 申请中的职务/想做的职务
@@ -153,19 +123,18 @@ tags: resume
 
 ### Programming 编程
 
-I have written code with:
-
-* Java
+* Java 后端开发的 6 个月实际项目经验，主要负责车联网领域的网关接口
     
-* Python
+    * 后端开发框架为 Spring Cloud
+        
+* Python 数据分析的 6 个月工作经验，主要负责车辆功能使用的数据分析
     
-
-Those are the frameworks that I have used:
-
-* Spring Cloud for Back-end Development
-    
-* Pandas for Data Analysis
-    
+    * 获得了Coursera 的宾夕法尼亚大学课程 *Data Analysis with Python* 的**证书**
+        
+    * n 个月的工作经验
+        
+    * 数据分析库为 Pandas
+        
 
 ### To Learn 打算学习的
 
