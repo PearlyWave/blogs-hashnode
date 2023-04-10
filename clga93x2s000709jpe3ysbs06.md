@@ -41,7 +41,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/oMpAz-DN-9I/up
         
     * 一个二次元创作俱乐部 ACGN Club （当前人数：6），负责漫画、游戏等文化作品的开发
         
-* Eric 最近在实验室中做哪些工作：
+* Eric 最近在实验室及附属组织中做哪些工作：
     
     1. 发展战略制定
         
