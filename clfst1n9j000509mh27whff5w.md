@@ -44,12 +44,55 @@ tags: resume
 * 2021.1~2021.6 Stream: 一个生活管理 APP ，有想法记录、习惯培养和打卡等功能。它是我的本科毕业设计项目
     
 
+## Skills 技能
+
+### Programming 编程
+
+* Java 后端开发的 6 个月实际项目经验，主要负责车联网领域的网关接口
+    
+    * 后端开发框架为 Spring Cloud
+        
+* Python 数据分析的 6 个月工作经验，主要负责车辆功能使用的数据分析
+    
+    * 获得了Coursera 的宾夕法尼亚大学课程 *Data Analysis with Python* 的**证书**
+        
+    * n 个月的工作经验
+        
+    * 数据分析库为 Pandas
+        
+
+### 组织创建与管理
+
+* 于 2023 年 3 月下旬创立了[响水实验室 XSLab](https://ericji.hashnode.dev/xslab)
+    
+
 ## Work 关于事业
 
 #### Titles 目前的职务
 
 * **Founder & Leader(2023.3~now)** of [响水实验室（XSLab）](https://ericji.hashnode.dev/xslab)
     
+    * 在实验室中，兼任以下职务
+        
+        * 战略与理论推演
+            
+        
+        * 产品经理
+            
+        
+        * 项目管理
+            
+        
+        * 社群运营
+            
+        * 人力资源管理
+            
+        * 技术架构与规范
+            
+        * 市场
+            
+        * 原型开发
+            
 * **初始成员** of **智能传播交叉研究工作坊**（南开大学·新闻与传播学院）
     
     * 主攻新闻传播和人工智能的交叉领域
@@ -118,23 +161,6 @@ tags: resume
     
 * 如果你想讨论一个问题，请自己先想清楚。如果问题需要特定背景知识，请描述清楚。推荐阅读[提问的智慧](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way)（文章）。
     
-
-## Skills 技能
-
-### Programming 编程
-
-* Java 后端开发的 6 个月实际项目经验，主要负责车联网领域的网关接口
-    
-    * 后端开发框架为 Spring Cloud
-        
-* Python 数据分析的 6 个月工作经验，主要负责车辆功能使用的数据分析
-    
-    * 获得了Coursera 的宾夕法尼亚大学课程 *Data Analysis with Python* 的**证书**
-        
-    * n 个月的工作经验
-        
-    * 数据分析库为 Pandas
-        
 
 ### To Learn 打算学习的
 
