@@ -175,7 +175,7 @@ tags: resume
 * 如果你想讨论一个问题，请自己先想清楚。如果问题需要特定背景知识，请描述清楚。推荐阅读[提问的智慧](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way)（文章）。
     
 
-### To Learn 打算学习的
+## To Learn 打算学习的
 
 * 足球
     
