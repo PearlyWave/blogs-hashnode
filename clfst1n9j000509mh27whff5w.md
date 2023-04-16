@@ -56,8 +56,6 @@ tags: resume
     
     * 获得了Coursera 的宾夕法尼亚大学课程 *Data Analysis with Python* 的**证书**
         
-    * n 个月的工作经验
-        
     * 数据分析库为 Pandas
         
 
@@ -85,6 +83,14 @@ tags: resume
         
     * 编辑
         
+
+### 英语能力
+
+可以使用英语闲聊、写作和阅读。目前参与英语会议还有些难度。
+
+最新英语成绩：2023年3月19日的**托业TOEIC**LR听读考试成绩——660分，这个成绩相当于CEFR的B～B+水平。对应的可参考这个[对照表](https://ericji.hashnode.dev/english)。
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1681605962086/5d97619e-c744-46e1-a105-89cf6ba9a63a.png align="center")
 
 ## Work 关于事业
 
