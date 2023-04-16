@@ -14,7 +14,7 @@ ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1677597721752/262f7
 
 4/15
 
-* 参加了元宇宙研讨会
+* 参加了元宇宙研讨会-线下场
     
     * 主题：元宇宙、AIGC、创业、创新
         
