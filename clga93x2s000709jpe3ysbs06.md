@@ -1,15 +1,17 @@
 ---
-title: "响水实验室 XSLab 的介绍"
+title: "About XSLAB"
 datePublished: Mon Apr 10 2023 03:05:24 GMT+0000 (Coordinated Universal Time)
 cuid: clga93x2s000709jpe3ysbs06
-slug: xslab
+slug: about-xslab
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/oMpAz-DN-9I/upload/c4f93bc2e6dd4e94ce5d6f93a567fb38.jpeg
 
 ---
 
 * 发展方向——暂时学习和模仿的目标：贝尔实验室、OpenAI、T-LAB
     
-* 当前人数：17
+    * 后续的发展方向正在讨论中
+        
+* 当前人数：11
     
 * 目前在做：
     
@@ -27,19 +29,19 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/oMpAz-DN-9I/up
         
         * \*注：格拉斯哥大学位于苏格兰，2023QS全球排名第82名
             
-    * 企业经历：上海市精神卫生中心、中国农业银行、蔚来汽车、埃森哲、福特中国、Zoom 等
+    * 成员的企业经历（包括全职、实习）：上海市精神卫生中心、中国农业银行、蔚来汽车、埃森哲、福特中国、Zoom 、京东方、一汽（长春）、等
         
     * 实验室主体（不含附属组织）学历情况：
         
-        * 本科占比（含在读）：91.67%（11/12）
+        * 本科占比（含在读）：11/11
             
-        * 硕士研究生占比（含在读）：16.67%（2/12）
+        * 硕士研究生占比（含在读）：2/11
             
 * 附属组织：
     
-    * 一个学习社群 XSLearning Club （当前人数：6），主要负责成果宣发
+    * 社群 XSClub （当前人数：6），主要负责成果宣发
         
-    * 一个二次元创作俱乐部 ACGN Club （当前人数：6），负责漫画、游戏等文化作品的开发
+    * 创作俱乐部（当前人数：6），负责漫画、游戏等文化作品的开发
         
 * Eric 最近在实验室及附属组织中做哪些工作：
     
