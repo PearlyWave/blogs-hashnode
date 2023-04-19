@@ -96,12 +96,10 @@ tags: resume
 
 #### Titles 目前的职务
 
-* **Founder & Leader(2023.3~now)** of [响水实验室（XSLab）](https://ericji.hashnode.dev/xslab)
+* **Founder & 组长(2023.3~now)** of [响水实验室（XSLab）](https://cowyo30m53.feishu.cn/docx/RF7adHlF5ojYJ7xvccHcHt0ZnSg)
     
-* **初始成员** of **智能传播交叉研究工作坊**（南开大学·新闻与传播学院）
+* **组长** of 文教传媒新领域研习会
     
-    * 主攻新闻传播和人工智能的交叉领域
-        
 
 ### Positions applying for 申请中的职务/想做的职务
 
@@ -112,7 +110,7 @@ tags: resume
 
 按照**意向强度**排序
 
-* **咨询、战略、智库**
+* **智库、咨询、战略**
     
 * 组织内的知识管理和培训
     
@@ -214,11 +212,13 @@ tags: resume
 
 ### 想买的/购物清单，欢迎送我 XD
 
+* Switch、PS5
+    
 * VR 眼镜
     
 * Wacom 影拓数位屏
     
-* 汽车：Tesla/Volvo/理想
+* 汽车：Volvo/理想/小鹏/Tesla
     
 * 大别墅
     
