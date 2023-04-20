@@ -7,6 +7,15 @@ ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1677597721752/262f7
 
 ---
 
+4/20
+
+* 看了大同市和传智教育合作的经济职业教育论坛，记了[笔记](https://ericji.hashnode.dev/6zu25pwj56yu6k6w772c5asn5zcm5pww5a2x57up5rwo6igm5lia5pwz6iky6k665z2b)。
+    
+* 逛了上海车展，看的车有：名爵、大众、别克、凯迪拉克、雪弗兰、奥迪、奔驰、丰田、福特。
+    
+* ACGN Club 第五次会议。
+    
+
 4/16
 
 * 换了个新发型，茶绿色。
