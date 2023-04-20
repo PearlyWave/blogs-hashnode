@@ -1,16 +1,19 @@
 ---
-title: "笔记｜大同数字经济职业教育论坛"
-seoDescription: "大同数字经济职业教育论坛：探讨数字经济、职业教育发展，汇聚市长、传智教育黎活明等专家，涉及生成式AI、服务数字经济、提高学生创就业质量等议题。"
+title: "零散笔记｜大同数字经济职业教育论坛"
+seoDescription: "本文主要介绍了大同数字经济职业教育论坛的内容，包括论坛直播地址、传智教育、主题、演讲嘉宾和签约仪式等。文章主要探讨数字经济和职业教育的发展与未来，并通过演讲嘉宾的分享，讨论了生成式 AI 对教育的影响、数字经济人才的培养、数字主播、开源人才培养等话题。如果你对数字经济和职业教育感兴趣，阅读本文将会对你有所启发。"
 datePublished: Thu Apr 20 2023 03:16:04 GMT+0000 (Coordinated Universal Time)
 cuid: clgojw5x3000a09mk1yx12qth
-slug: 56yu6k6w772c5asn5zcm5pww5a2x57up5rwo6igm5lia5pwz6iky6k665z2b
+slug: 6zu25pwj56yu6k6w772c5asn5zcm5pww5a2x57up5rwo6igm5lia5pwz6iky6k665z2b
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/2EJCSULRwC8/upload/8bbf6c3b54fa0bedabfe2c326cf047e0.jpeg
 tags: 5pww5a2x57up5rwo
 
 ---
 
 ## **导读**
 
-这篇文章介绍了大同数字经济职业教育论坛的内容，包括论坛直播地址、传智教育、主题、演讲嘉宾和签约仪式等。文章主要探讨数字经济和职业教育的发展与未来，并通过演讲嘉宾的分享，讨论了生成式 AI 对教育的影响、数字经济人才的培养、数字主播、开源人才培养等话题。如果你对数字经济和职业教育感兴趣，阅读本文将会对你有所启发。
+导读：
+
+本文主要介绍了大同数字经济职业教育论坛的内容，包括论坛直播地址、传智教育、主题、演讲嘉宾和签约仪式等。文章主要探讨数字经济和职业教育的发展与未来，并通过演讲嘉宾的分享，讨论了生成式 AI 对教育的影响、数字经济人才的培养、数字主播、开源人才培养等话题。如果你对数字经济和职业教育感兴趣，阅读本文将会对你有所启发。
 
 ## 关于
 
@@ -26,6 +29,8 @@ tags: 5pww5a2x57up5rwo
         
 * 关于本文
     
+    * 类似于文字直播
+        
     * 本文GitHub地址（共建用，欢迎贡献）：[https://github.com/PearlyWave/blogs-hashnode/blob/main/clgojw5x3000a09mk1yx12qth.md](https://github.com/PearlyWave/blogs-hashnode/blob/main/clgojw5x3000a09mk1yx12qth.md)
         
 
@@ -206,3 +211,5 @@ book：《数字经济学》
 “大脑”建设分级：国家级、院校级
 
 院校级的重点：数据治理
+
+以产业为导向
