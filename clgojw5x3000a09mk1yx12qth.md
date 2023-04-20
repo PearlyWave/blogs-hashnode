@@ -33,15 +33,14 @@ tags: 5pww5a2x57up5rwo
         
     * 本文GitHub地址（共建用，欢迎贡献）：[https://github.com/PearlyWave/blogs-hashnode/blob/main/clgojw5x3000a09mk1yx12qth.md](https://github.com/PearlyWave/blogs-hashnode/blob/main/clgojw5x3000a09mk1yx12qth.md)
         
-
-## 关于传智教育
-
-* 传智教育官网：[https://www.itcast.cn/](https://www.itcast.cn/)
+* 关于传智教育
     
+    * 传智教育官网：[https://www.itcast.cn/](https://www.itcast.cn/)
+        
     * 百度百科：[https://baike.baidu.com/item/%E4%BC%A0%E6%99%BA%E6%95%99%E8%82%B2/55591904](https://baike.baidu.com/item/%E4%BC%A0%E6%99%BA%E6%95%99%E8%82%B2/55591904)
         
-* 传智教育合作方式：[https://www.itcast.cn/news/20180412/10045089511.shtml](https://www.itcast.cn/news/20180412/10045089511.shtml)
-    
+    * 与传智教育合作的方式：[https://www.itcast.cn/news/20180412/10045089511.shtml](https://www.itcast.cn/news/20180412/10045089511.shtml)
+        
 
 ## 主题
 
@@ -213,3 +212,5 @@ book：《数字经济学》
 院校级的重点：数据治理
 
 以产业为导向
+
+数字化专业人才，数字化应用型人才，数字化管理人才
