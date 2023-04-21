@@ -48,12 +48,17 @@ tags: resume
 
 ### 现实空间
 
-* 上海
+* 上海 闵行区
     
 
 ### 数字空间
 
 网页：
+
+* v2ex
+    
+* 齐思
+    
 
 微信群：
 
@@ -62,7 +67,15 @@ tags: resume
 * Shirt.ai
     
 
-飞书群
+飞书群：
+
+* XSLAB
+    
+
+QQ群：
+
+* ACGN Club
+    
 
 ## Skills 技能
 
