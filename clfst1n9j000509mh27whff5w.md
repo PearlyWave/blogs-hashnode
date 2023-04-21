@@ -1,5 +1,6 @@
 ---
 title: "Eric 的个人说明书"
+seoDescription: "本文介绍了 Eric 的个人说明书，包括他的基本信息、工作经验、个人简介、作品、出没的地点/组织/社群、技能、关于事业、爱好等方面的内容。文章以列表的形式呈现，同时也包括了 Eric 想学习的内容、他推荐的好物以及他的联系方式。文章的主要目的是让读者更好地了解 Eric 的个人背景、职业规划和兴趣爱好。"
 datePublished: Tue Mar 28 2023 22:03:39 GMT+0000 (Coordinated Universal Time)
 cuid: clfst1n9j000509mh27whff5w
 slug: about-me
@@ -7,6 +8,15 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/fT49QnFucQ8/up
 tags: resume
 
 ---
+
+## 即将参加的活动，欢迎面基
+
+* 4.21 上海-国家会展中心｜国际车展
+    
+* 4.22 南京-新街口｜XSLAB 首次读书会
+    
+* 4.23 上海-陆家嘴-中国金融信息中心｜海上院士讲坛：跨越化学与生物的合成科学
+    
 
 ## Brief Introduction **个人简介**
 
