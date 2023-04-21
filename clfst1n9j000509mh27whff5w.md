@@ -1,5 +1,5 @@
 ---
-title: "Eric Ji's About Me"
+title: "Eric 的个人说明书"
 datePublished: Tue Mar 28 2023 22:03:39 GMT+0000 (Coordinated Universal Time)
 cuid: clfst1n9j000509mh27whff5w
 slug: about-me
@@ -8,7 +8,7 @@ tags: resume
 
 ---
 
-## Brief Intruduction **个人简介**
+## Brief Introduction **个人简介**
 
 他曾就读于哈尔滨工程大学的计算机科学与技术专业（本科，2017.9～2021.6）。他曾在埃森哲中国工作一年，客户为福特中国，汽车行业。在这段工作中，他参与过后端开发和数据分析项目。在2021年4月，他和李彬豪合作开始开发技能管理工具 [Skilla](https://v2ex.com/t/847040) 。在2022年3月下旬，他创建并运营一个实验室 [XSLAB](https://ericji.hashnode.dev/about-xslab)。XSLAB关注产品创新、编程开发、教育教学、科技前沿资讯等领域。现在打算去欧洲（瑞士、德国、北欧、英国等）读一个**教育**学硕士，大概是**职业教育、基础教育**或高等教育方面。
 
@@ -57,7 +57,7 @@ tags: resume
 
 * v2ex
     
-* 齐思
+* [齐思](https://news.miracleplus.com/feeds)
     
 
 微信群：
@@ -247,12 +247,16 @@ QQ群：
 
 * Switch、PS5
     
-* VR 眼镜
+* VR
     
 * Wacom 影拓数位屏
     
-* 汽车：越野车、皮卡、小电车；小鹏/Tesla/理想/BYD
+* 汽车：
     
+    * 越野车、皮卡、小电车
+        
+    * 小鹏/Tesla/理想/BYD
+        
 * 大别墅
     
 
