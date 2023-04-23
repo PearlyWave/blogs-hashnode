@@ -17,7 +17,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/oMpAz-DN-9I/up
     
 * 创始人们: [吉翔 Eric Ji](https://ericji.hashnode.dev/about-me)、李彬豪 Miles Li、洪文君 Winni Hong
     
-* 当前主要的领域：**产品（大多软件）开发、人工智能研究、知识分享、教育教学、家乡（响水）发展**
+* 当前主要的领域：**产品（大多软件）开发、人工智能研究、知识分享、教育教学、家乡（响水等）发展**
     
 * 我们可以提供什么：研报、咨询、demo、培训、企业合作、升学规划和咨询
     
