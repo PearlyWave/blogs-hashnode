@@ -9,6 +9,10 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/oMpAz-DN-9I/up
 
 ---
 
+摘要：这篇文章介绍了响水实验室的发展方向、人数、创始人、主要领域、提供的服务和需要的资源，以及实验室成员的教育背景和企业经历。此外，文章还列举了实验室正在从事的事项和已经取得的成果，以及附属组织XS Club和ACGN Creation Lab。最后，作者感谢李彬豪的捐助。
+
+* ---
+    
 * 发展方向——暂时学习和模仿的目标：贝尔实验室、OpenAI、T-LAB
     
     * 后续的发展方向正在讨论中
