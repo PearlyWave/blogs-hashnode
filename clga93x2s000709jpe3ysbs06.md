@@ -15,9 +15,11 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/oMpAz-DN-9I/up
         
 * 当前人数：13
     
+* 创始人们: [吉翔 Eric Ji](https://ericji.hashnode.dev/about-me)、李彬豪 Miles Li、洪文君 Winni Hong
+    
 * 目前在做：
     
-    * 知识管理：阅读会、实验室刊物、语言学习
+    * 知识管理：阅读会（第一次在南京已经举办成功了）、实验室刊物、语言学习
         
     * 基础研究：心理学、教育学、数学、计算机科学、人工智能（深度学习、自然语言处理）、商业、管理
         
@@ -55,19 +57,6 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/oMpAz-DN-9I/up
             
         * 当前人数：10
             
+* 我们可以提供什么：研报、咨询
     
-    PS：
-    
-* Eric 最近在实验室及附属组织中做哪些工作：
-    
-    * 发展战略制定
-        
-    * 探索和建立新的分支讨论主题
-        
-    * 活动策划和组织
-        
-    * 文档撰写和输出
-        
-    * 新成员招入
-        
-    * 团队知识管理
+* 我们需要什么：办公地点，实验室/研究所资质
