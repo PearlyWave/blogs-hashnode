@@ -66,3 +66,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/oMpAz-DN-9I/up
         * 一个结合数字与艺术的创作俱乐部，负责小说、漫画、电影、动漫、游戏等文化作品的开发
             
         * 当前人数：10
+            
+* 感谢捐助！
+    
+    * 1、李彬豪 Miles，10 元，2023年4月24日
