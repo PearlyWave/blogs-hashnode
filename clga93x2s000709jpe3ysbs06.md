@@ -1,5 +1,7 @@
 ---
 title: "About XSLAB"
+seoTitle: "XSLAB Overview: Discover More"
+seoDescription: "XSLAB: 10-member team, inspired by Bell Labs & OpenAI, researching, developing apps, and promoting public welfare. Diverse backgrounds"
 datePublished: Mon Apr 10 2023 03:05:24 GMT+0000 (Coordinated Universal Time)
 cuid: clga93x2s000709jpe3ysbs06
 slug: about-xslab
