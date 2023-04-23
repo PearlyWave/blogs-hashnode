@@ -1,7 +1,7 @@
 ---
 title: "响水实验室简介"
 seoTitle: "XSLAB Overview: Discover More"
-seoDescription: "XSLAB: 10-member team, inspired by Bell Labs & OpenAI, researching, developing apps, and promoting public welfare. Diverse backgrounds"
+seoDescription: "这篇文章介绍了响水实验室的发展方向、人数、创始人、主要领域、提供的服务和需要的资源，以及实验室成员的教育背景和企业经历。此外，文章还列举了实验室正在从事的事项和已经取得的成果，以及附属组织XS Club和ACGN Creation Lab。最后，作者感谢李彬豪的捐助。"
 datePublished: Mon Apr 10 2023 03:05:24 GMT+0000 (Coordinated Universal Time)
 cuid: clga93x2s000709jpe3ysbs06
 slug: 5zon5rc05a6e6aqm5a6k566a5lul
