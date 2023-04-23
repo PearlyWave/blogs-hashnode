@@ -25,7 +25,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/oMpAz-DN-9I/up
     
 * XS 的含义：
     
-    响水的拼音首字母为 XS 。本实验室有 的成员来自响水。关于[响水](https://baike.baidu.com/item/%E5%93%8D%E6%B0%B4%E5%8E%BF)。
+    响水的拼音首字母为 XS 。本实验室有超过一半的成员来自响水。关于江苏省盐城市[响水](https://baike.baidu.com/item/%E5%93%8D%E6%B0%B4%E5%8E%BF)县。
     
 * 在做的事一览及成果：
     
