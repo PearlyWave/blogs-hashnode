@@ -1,10 +1,10 @@
 ---
-title: "About XSLAB"
+title: "响水实验室简介"
 seoTitle: "XSLAB Overview: Discover More"
 seoDescription: "XSLAB: 10-member team, inspired by Bell Labs & OpenAI, researching, developing apps, and promoting public welfare. Diverse backgrounds"
 datePublished: Mon Apr 10 2023 03:05:24 GMT+0000 (Coordinated Universal Time)
 cuid: clga93x2s000709jpe3ysbs06
-slug: about-xslab
+slug: 5zon5rc05a6e6aqm5a6k566a5lul
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/oMpAz-DN-9I/upload/c4f93bc2e6dd4e94ce5d6f93a567fb38.jpeg
 
 ---
