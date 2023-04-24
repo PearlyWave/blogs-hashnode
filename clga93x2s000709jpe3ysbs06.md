@@ -75,15 +75,13 @@ PS：本文使用 [GitHub](https://github.com/PearlyWave/blogs-hashnode/blob/mai
     * 当前人数：10
         
 
-## 感谢捐助！
+## 感谢捐赠
 
-我们会记录每一份捐助以其去向，非常感谢您的贡献与支持！想要进行捐助，请联系创始人微信：chinesewi
+我们会记录每一份捐助以其去向，非常感谢您的贡献与支持！
 
 * 1、李彬豪 Miles，10 元，2023年4月24日
     
 
 ## 战略合作伙伴
-
-感谢！如需合作请联系创始人微信：chinesewi
 
 [![蓝衫科技](https://www.bluelsqkj.com/wp-content/uploads/2023/02/cropped-%E8%93%9D%E8%A1%AB%E8%93%9D%E8%89%B2%E5%AD%97%E4%BD%93-250x77.png align="left")](https://ericji.hashnode.dev/blueshirt)
