@@ -49,7 +49,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/oMpAz-DN-9I/up
             
         * \*\*注：南洋理工大学位于新加坡，2023QS全球排名第19名
             
-    * 成员的企业经历（包括全职、实习）：上海市精神卫生中心、中国农业银行、蔚来汽车、埃森哲、福特中国、Zoom 、京东方、一汽（长春）、麦肯锡、蓝衫科技等
+    * 成员的企业经历（包括全职、实习；包括现、离职）：上海市精神卫生中心（上交附属）、中国农业银行、蔚来汽车、埃森哲、福特中国、Zoom 、京东方、一汽（长春）、麦肯锡、蓝衫科技等
         
     * 实验室主体（不含附属组织）学历情况：
         
@@ -96,4 +96,6 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/oMpAz-DN-9I/up
         
 * 蓝衫导航：
     
-* 主要产品——Shirt.AI 系列软件
+* 主要人工智能（AI）产品：[Shirt AI](https://www.bluelsqkj.com/zh_cn/%E7%87%95%E9%BA%A6/)。其中包括：
+    
+    * ChatGPT 国内版
