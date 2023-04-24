@@ -23,7 +23,7 @@ PS：本文使用 [GitHub](https://github.com/PearlyWave/blogs-hashnode/blob/mai
         
 * 当前人数：13
     
-* 创始人们: [吉翔 Eric Ji](https://ericji.hashnode.dev/about-me)、李彬豪 Miles Li、洪文君 Winni Hong
+* 创始人们: [吉翔 Eric Ji](https://ericji.hashnode.dev/about-me)、李彬豪 Miles Li、[洪文君 Winni Hong](https://cowyo30m53.feishu.cn/docx/WBQpd51fEooTi4x7g93c8eannOe)
     
 * 当前主要的领域：**产品（大多软件）开发、人工智能研究、知识分享、教育教学、家乡（响水等）发展、公益活动**
     
@@ -87,17 +87,3 @@ PS：本文使用 [GitHub](https://github.com/PearlyWave/blogs-hashnode/blob/mai
 感谢！如需合作请联系创始人微信：chinesewi
 
 ![蓝衫科技](https://www.bluelsqkj.com/wp-content/uploads/2023/02/cropped-%E8%93%9D%E8%A1%AB%E8%93%9D%E8%89%B2%E5%AD%97%E4%BD%93-250x77.png align="left")
-
-蓝衫科技
-
-* 官网
-    
-    * 中文：[蓝衫科技 - 蓝衫科技 (](https://www.bluelsqkj.com/zh_cn/)[bluelsqkj.com](http://bluelsqkj.com)[)](https://www.bluelsqkj.com/zh_cn/)
-        
-    * 英文：[蓝衫科技 - Blueshirt Technology (](https://www.bluelsqkj.com/)[bluelsqkj.com](http://bluelsqkj.com)[)](https://www.bluelsqkj.com/)
-        
-* 蓝衫导航：
-    
-* 主要人工智能（AI）产品：[Shirt AI](https://www.bluelsqkj.com/zh_cn/%E7%87%95%E9%BA%A6/)。其中包括：
-    
-    * ChatGPT 国内版
