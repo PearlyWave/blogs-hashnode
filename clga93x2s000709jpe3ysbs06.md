@@ -23,9 +23,9 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/oMpAz-DN-9I/up
     
 * 创始人们: [吉翔 Eric Ji](https://ericji.hashnode.dev/about-me)、李彬豪 Miles Li、洪文君 Winni Hong
     
-* 当前主要的领域：**产品（大多软件）开发、人工智能研究、知识分享、教育教学、家乡（响水等）发展**
+* 当前主要的领域：**产品（大多软件）开发、人工智能研究、知识分享、教育教学、家乡（响水等）发展、公益活动**
     
-* 我们可以提供什么：研报、咨询、demo、培训、企业合作、升学规划和咨询
+* 我们可以提供什么：研报、咨询、demo、培训/家教、企业合作、升学（国内外）规划和咨询、个人发展规划咨询、职业规划咨询、人工智能工具/软件（如ChatGPT国内使用版本）、
     
 * 我们需要什么：钱💰、办公地点、NGO/实验室/研究所资质、自媒体及主页、电脑、书籍、培训、期刊数据库
     
@@ -33,7 +33,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/oMpAz-DN-9I/up
     
 * 在做的事一览及成果：
     
-    * 知识管理：阅读会（第一次在南京已经举办成功了，视频/博客/文字版制作中）、实验室刊物、语言学习
+    * 知识管理：阅读会（第一次在南京·新街口已经举办成功了，视频/博客/文字版制作中）、实验室刊物、语言学习
         
     * 基础研究：心理学、教育学、数学、计算机科学、人工智能（深度学习、自然语言处理）、商业、管理
         
@@ -57,23 +57,43 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/oMpAz-DN-9I/up
             
         * 硕士研究生占比（含在读）：4/13
             
-* 附属组织：
+
+## 附属组织
+
+* 社群 **XS Club**
     
-    * 社群 **XS Club**
+    * 一个微信群，主要负责成果宣发
         
-        * 一个微信群，主要负责成果宣发
-            
-        * 当前人数：17
-            
-    * **ACGN Creation Lab**
+    * 当前人数：17
         
-        * 一个结合数字与艺术的创作俱乐部，负责小说、漫画、电影、动漫、游戏等文化作品的开发
-            
-        * 当前人数：10
-            
+* **ACGN Creation Lab**
+    
+    * 一个结合数字与艺术的创作俱乐部，负责小说、漫画、电影、动漫、游戏等文化作品的开发
+        
+    * 当前人数：10
+        
 
 ## 感谢捐助！
 
 我们会记录每一份捐助以其去向，非常感谢您的贡献与支持！想要进行捐助，请联系创始人微信：chinesewi
 
 * 1、李彬豪 Miles，10 元，2023年4月24日
+    
+
+## 战略合作伙伴
+
+感谢！如需合作请联系创始人微信：chinesewi
+
+![蓝衫科技](https://www.bluelsqkj.com/wp-content/uploads/2023/02/cropped-%E8%93%9D%E8%A1%AB%E8%93%9D%E8%89%B2%E5%AD%97%E4%BD%93-250x77.png align="left")
+
+蓝衫科技
+
+* 官网
+    
+    * 中文：[蓝衫科技 - 蓝衫科技 (](https://www.bluelsqkj.com/zh_cn/)[bluelsqkj.com](http://bluelsqkj.com)[)](https://www.bluelsqkj.com/zh_cn/)
+        
+    * 英文：[蓝衫科技 - Blueshirt Technology (](https://www.bluelsqkj.com/)[bluelsqkj.com](http://bluelsqkj.com)[)](https://www.bluelsqkj.com/)
+        
+* 蓝衫导航：
+    
+* 主要产品——Shirt.AI 系列软件
