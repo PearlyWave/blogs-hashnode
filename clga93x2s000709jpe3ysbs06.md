@@ -9,11 +9,13 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/oMpAz-DN-9I/up
 
 ---
 
-摘要：这篇文章介绍了响水实验室的发展方向、人数、创始人、主要领域、提供的服务和需要的资源，以及实验室成员的教育背景和企业经历。此外，文章还列举了实验室正在从事的事项和已经取得的成果，以及附属组织XS Club和ACGN Creation Lab。最后，作者感谢李彬豪的捐助。
+## 摘要
 
-* ---
-    
-* 发展方向——暂时学习和模仿的目标：贝尔实验室、OpenAI、T-LAB
+这篇文章介绍了响水实验室的发展方向、人数、创始人、主要领域、提供的服务和需要的资源，以及实验室成员的教育背景和企业经历。此外，文章还列举了实验室正在从事的事项和已经取得的成果，以及附属组织XS Club和ACGN Creation Lab。最后，作者感谢李彬豪的捐助。
+
+## 实验室基本信息
+
+* 暂时学习和模仿的目标：贝尔实验室、OpenAI、T-LAB
     
     * 后续的发展方向正在讨论中
         
@@ -27,9 +29,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/oMpAz-DN-9I/up
     
 * 我们需要什么：钱💰、办公地点、NGO/实验室/研究所资质、自媒体及主页、电脑、书籍、培训、期刊数据库
     
-* XS 的含义：
-    
-    响水的拼音首字母为 XS 。本实验室有超过一半的成员来自响水。关于江苏省盐城市[响水](https://baike.baidu.com/item/%E5%93%8D%E6%B0%B4%E5%8E%BF)县。
+* XS 的含义：响水的拼音首字母为 XS 。本实验室有超过 60% （13个人中有8个）的成员来自响水。关于江苏省盐城市[响水](https://baike.baidu.com/item/%E5%93%8D%E6%B0%B4%E5%8E%BF)县。
     
 * 在做的事一览及成果：
     
@@ -71,6 +71,9 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/oMpAz-DN-9I/up
             
         * 当前人数：10
             
-* 感谢捐助！
-    
-    * 1、李彬豪 Miles，10 元，2023年4月24日
+
+## 感谢捐助！
+
+我们会记录每一份捐助以其去向，非常感谢您的贡献与支持！想要进行捐助，请联系创始人微信：chinesewi
+
+* 1、李彬豪 Miles，10 元，2023年4月24日
