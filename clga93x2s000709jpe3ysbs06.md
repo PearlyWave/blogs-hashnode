@@ -64,7 +64,7 @@ PS：本文使用 [GitHub](https://github.com/PearlyWave/blogs-hashnode/blob/mai
 
 * 社群 **XS Club**
     
-    * 一个微信群，主要负责成果宣发
+    * 一个微信群，主要用于活动宣传、作品宣发以及成员的交流讨论
         
     * 当前人数：17
         
