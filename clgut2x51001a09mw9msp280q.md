@@ -25,3 +25,5 @@ slug: blueshirt
         * web development [https://www.bluelsqkj.com/web-development](https://www.bluelsqkj.com/web-development)
             
         * AIGC（chatgpt搭建）[https://www.bluelsqkj.com/shirtai](https://www.bluelsqkj.com/shirtai)
+            
+* 加入我们
