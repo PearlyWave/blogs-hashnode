@@ -9,7 +9,7 @@ ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1677597721752/262f7
 
 4/28
 
-1. 第二次逛上海车展，看的品牌有：绝影（商汤）、Unity、领克、哪吒、比亚迪等。
+1. 第二次逛上海车展，看的品牌有：欧拉、绝影（商汤）、Unity、领克、哪吒、比亚迪等。
     
 2. ACGN Club 第六次开会，讨论了《星穹铁道》、《火山的女儿》和桌游。
     
