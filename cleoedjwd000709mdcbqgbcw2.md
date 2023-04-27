@@ -7,6 +7,13 @@ ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1677597721752/262f7
 
 ---
 
+4/28
+
+1. 第二次逛上海车展，看的品牌有：绝影（商汤）、Unity、领克、哪吒、比亚迪等。
+    
+2. ACGN Club 第六次开会，讨论了《星穹铁道》、《火山的女儿》和桌游。
+    
+
 4/20
 
 * 看了大同市和传智教育合作的经济职业教育论坛，记了[笔记](https://ericji.hashnode.dev/6zu25pwj56yu6k6w772c5asn5zcm5pww5a2x57up5rwo6igm5lia5pwz6iky6k665z2b)。
