@@ -1,5 +1,5 @@
 ---
-title: "Eric 的个人说明书"
+title: "探索Eric的个人档案"
 seoDescription: "本文介绍了 Eric 的个人说明书，包括他的基本信息、工作经验、个人简介、作品、出没的地点/组织/社群、技能、关于事业、爱好等方面的内容。文章以列表的形式呈现，同时也包括了 Eric 想学习的内容、他推荐的好物以及他的联系方式。文章的主要目的是让读者更好地了解 Eric 的个人背景、职业规划和兴趣爱好。"
 datePublished: Tue Mar 28 2023 22:03:39 GMT+0000 (Coordinated Universal Time)
 cuid: clfst1n9j000509mh27whff5w
@@ -20,7 +20,7 @@ tags: resume
 
 ## Brief Introduction **个人简介**
 
-他曾就读于哈尔滨工程大学的计算机科学与技术专业（本科，2017.9～2021.6）。他曾在埃森哲中国工作一年，客户为福特中国，汽车行业。在这段工作中，他参与过后端开发和数据分析项目。在2021年4月，他和李彬豪合作开始开发技能管理工具 [Skilla](https://v2ex.com/t/847040) 。在2022年3月下旬，他创建并运营一个实验室 [XSLAB](https://ericji.hashnode.dev/about-xslab)。XSLAB关注产品创新、编程开发、教育教学、科技前沿资讯等领域。现在打算去欧洲（瑞士、德国、北欧、英国等）读一个**教育**学硕士，大概是**职业教育、基础教育**或高等教育方面。
+他曾就读于哈尔滨工程大学的计算机科学与技术专业（本科，2017.9～2021.6）。他曾在[埃森哲（Accenture）](https://ericji.hashnode.dev/accenture)（中国·上海）工作一年，客户为[福特（Ford）](https://ericji.hashnode.dev/ford-automotive)中国（福特上海设计中心），汽车行业。在这段工作中，他参与过后端开发和数据分析项目。在2021年4月，他和李彬豪合作开始开发技能管理工具 [Skilla](https://v2ex.com/t/847040) 。在2022年3月下旬，他创建并运营一个实验室 [XSLAB](https://ericji.hashnode.dev/about-xslab)。XSLAB关注产品创新、编程开发、教育教学、科技前沿资讯等领域。<s>现在打算去欧洲（瑞士、德国、北欧、英国等）读一个</s>**<s>教育</s>**<s>学硕士，大概是</s>**<s>职业教育、基础教育</s>**<s>或高等教育方面。</s>
 
 ## Basic Information 基本信息
 
