@@ -7,6 +7,15 @@ ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1677597721752/262f7
 
 ---
 
+4/30
+
+1. 逛了大众书局
+    
+2. 看了下上海纽约大学 NYU Shanghai
+    
+3. 面试了一下“斯坦星球”的教师岗（Scratch + 硬件/Python）
+    
+
 4/28
 
 1. 第二次逛上海车展，看的品牌有：欧拉、绝影（商汤）、Unity、领克、哪吒、比亚迪等。
