@@ -38,23 +38,42 @@ tags: resume
 
 ## Works 作品
 
-* 2022.3~now [Skilla](https://v2ex.com/t/847040) 及其理念-Creator
+### 完成的
+
+* 2022.3~now [Skilla](https://v2ex.com/t/847040) 及其理念 ，Creator
     
-* 2020 短视频大赛[宣传片](https://drive.google.com/file/d/1hLS6X6Uv2o8rxBV_k_bGAU1g4Wo4CKRA/view?usp=share_link)\-编导 at ving微电影社团 哈尔滨工程大学
+* 2020 短视频大赛[宣传片](https://drive.google.com/file/d/1hLS6X6Uv2o8rxBV_k_bGAU1g4Wo4CKRA/view?usp=share_link)：编导 at ving微电影社团 哈尔滨工程大学
     
-* 2021.1~2021.6 Stream: 一个生活管理 APP ，有想法记录、习惯培养和打卡等功能。它是我的本科毕业设计项目
+* 2021.1~2021.6 Stream—— 一个生活管理 APP ，有想法记录、习惯培养和打卡等功能。它是我的本科毕业设计项目
+    
+
+### 制作中
+
+* 心理学播客
+    
+* 第一次读书会记录
+    
+* 两次关于游戏的会议记录
+    
+* 蓝衫科技：
+    
+    * Chat GPT APP
+        
+    * AI + 教育（特别是英语）
+        
+* 爷爷的回忆录编辑、整理
     
 
 ## 出没的地点/组织/社群
 
 ### 现实空间
 
-* 上海 闵行区
+* 上海 闵行区 虹桥商务区 冠捷大厦 2F D03 位置
     
 
 ### 数字空间
 
-网页：
+论坛：
 
 * v2ex
     
@@ -75,7 +94,7 @@ tags: resume
 
 QQ群：
 
-* ACGN Club
+* 杂七杂八俱乐部
     
 
 ## Skills 技能
