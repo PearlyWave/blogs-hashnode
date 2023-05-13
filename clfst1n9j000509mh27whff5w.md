@@ -143,8 +143,6 @@ QQ群：
 
 最新英语成绩：2023年3月19日的**托业TOEIC**LR听读考试成绩——660分，这个成绩相当于CEFR的B～B+水平。对应的可参考这个[对照表](https://ericji.hashnode.dev/english)。
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1681605962086/5d97619e-c744-46e1-a105-89cf6ba9a63a.png align="center")
-
 ## Work 关于事业
 
 #### Titles 目前的职务
@@ -152,11 +150,6 @@ QQ群：
 * **Founder & 组长(2023.3~now)** of [响水实验室（XSLab）](https://cowyo30m53.feishu.cn/docx/RF7adHlF5ojYJ7xvccHcHt0ZnSg)
     
 * **组长** of 文教传媒新领域研习会
-    
-
-### Positions applying for 申请中的职务/想做的职务
-
-* **Volunteer** of 上海图书馆
     
 
 ### Positions I want 我正在寻找的工作类型
