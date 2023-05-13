@@ -3,7 +3,7 @@ title: "XS Club | XSLAB 专属社群"
 datePublished: Sat May 06 2023 22:45:56 GMT+0000 (Coordinated Universal Time)
 cuid: clhckq8kh00000amkg3qoe0u6
 slug: xsclub-xslab
-cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/OHOU-5UVIYQ/upload/0c9fb9b00927fd33868f0b84433f876c.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/b9AEmlWZpCs/upload/76db283159159080341a9917c5b255da.jpeg
 
 ---
 
