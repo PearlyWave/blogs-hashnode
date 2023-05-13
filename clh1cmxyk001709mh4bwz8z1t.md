@@ -3,6 +3,7 @@ title: "盖洛普是什么"
 datePublished: Sat Apr 29 2023 02:13:57 GMT+0000 (Coordinated Universal Time)
 cuid: clh1cmxyk001709mh4bwz8z1t
 slug: gallup
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/_af0_qAh4K4/upload/6ce2b685f6b94fe80184cf068cdd8848.jpeg
 
 ---
 
