@@ -292,7 +292,7 @@ QQ群：
 
 如果你想把自己的主页或个人介绍的链接贴到这里，请联系我哦！
 
-* [李彬豪](https://cowyo30m53.feishu.cn/docx/FzSZdW9r6o7jiax7w6Qc7mPQnSd)：格拉斯哥大学大三，CS 方向
+* [李彬豪](https://cowyo30m53.feishu.cn/docx/FzSZdW9r6o7jiax7w6Qc7mPQnSd)：格拉斯哥大学大三，CS（计算机科学）方向
     
 * [何浩源](http://www.lamda.nju.edu.cn/hehy/)：南京大学硕士研究生在读，人工智能方向
     
