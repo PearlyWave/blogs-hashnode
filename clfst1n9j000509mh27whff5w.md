@@ -292,8 +292,10 @@ QQ群：
 
 如果你想把自己的主页链接贴到这里，请联系我哦！
 
-* [吉普](https://morningstar369.com/)\-河海大学硕士研究生在读，通信工程方向
+* [李彬豪](https://cowyo30m53.feishu.cn/docx/FzSZdW9r6o7jiax7w6Qc7mPQnSd)：格拉斯哥大学大三，CS方向
     
-* [何浩源](http://www.lamda.nju.edu.cn/hehy/)\-南京大学硕士研究生在读，人工智能方向
+* [何浩源](http://www.lamda.nju.edu.cn/hehy/)：南京大学硕士研究生在读，人工智能方向
     
-* [岳小斌](https://www.cnblogs.com/Severus-Cavendish/)\-东南大学硕士研究生在读，信息安全方向
+* [吉普](https://morningstar369.com/)：河海大学硕士研究生在读，通信工程方向
+    
+* [岳小斌](https://www.cnblogs.com/Severus-Cavendish/)：东南大学硕士研究生在读，信息安全方向
