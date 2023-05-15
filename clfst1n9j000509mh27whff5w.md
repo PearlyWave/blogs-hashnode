@@ -77,14 +77,14 @@ tags: resume
 
 * v2ex
     
-* [齐思](https://news.miracleplus.com/feeds)
+* [齐思](https://news.miracleplus.com/feeds)：from 奇绩创坛
     
 
 微信群：
 
 * XS Club
     
-* Shirt.ai
+* Shirt.ai 蓝衫科技的 AI 社群
     
 
 飞书群：
