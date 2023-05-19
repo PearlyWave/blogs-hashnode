@@ -9,6 +9,24 @@ tags: resume
 
 ---
 
+## Office Time 工作时间
+
+以下均为北京时间（UTC+8）
+
+* 周一 ～ 周五：tbd
+    
+* 周六：tbd
+    
+* 周日：tbd
+    
+
+## Office 办公室地点
+
+1. 上海西：冠捷大厦（近虹桥火车站、虹桥商务区、会展中心）2F 办伴 联合办公位 D03
+    
+2. 上海南：临港浦江科技中心 18 栋（8号线 浦江镇地铁站）4F 禾获仁
+    
+
 ## Brief Introduction **个人简介**
 
 他曾就读于哈尔滨工程大学的计算机科学与技术专业（本科，2017.9～2021.6）。他曾在[埃森哲（Accenture）](https://ericji.hashnode.dev/accenture)（中国·上海）工作一年，客户为[福特（Ford）](https://ericji.hashnode.dev/ford-automotive)中国（福特上海设计中心），汽车行业。在这段工作中，他参与过后端开发和数据分析项目。在2021年4月，他和李彬豪合作开始开发技能管理工具 [Skilla](https://v2ex.com/t/847040) 。在2022年3月下旬，他创建并运营一个实验室 [响水实验室（XSLAB）](https://ericji.hashnode.dev/about-xslab)。
@@ -33,7 +51,59 @@ tags: resume
     
 * 微信公众号: Eric 的猜想
     
+
+## Follow me 想要随时了解我的动态
+
+* （推荐）使用 [Newsletter 订阅](https://ericji.hashnode.dev/newsletter)
+    
 * 这篇 [Log](https://ericji.hashnode.dev/log) 记录着我每天做了什么，一般在每天的晚间更新（23:00 左右)。
+    
+* （推荐）使用 [RSS 订阅](https://ericji.hashnode.dev/rss.xml)
+    
+* 关注[我的 Twitter](https://twitter.com/Eric38251454)
+    
+* 关注微信公众号：Eric的猜想
+    
+
+## Roles 角色/职务
+
+### 组织者
+
+* （todo）云梯关书院
+    
+* （todo）NGO of AI
+    
+* XS Club 交叉新领域俱乐部
+    
+* XS Lab 响水实验室
+    
+* 杂七杂八俱乐部
+    
+
+### 成员
+
+* 蓝衫科技
+    
+
+### 合伙人
+
+* （todo）禾获仁
+    
+* （todo）中芳联
+    
+* （todo）NYUSH/上海纽约大学 教育产品
+    
+
+### 项目
+
+* （todo）上海图书馆竞赛
+    
+* （todo）科大讯飞竞赛
+    
+
+### 志愿者
+
+* 斯坦福创业论坛（上海）- 会议记录团队
     
 
 ## Works 作品
@@ -49,6 +119,8 @@ tags: resume
 
 ### 制作中
 
+* 爷爷的回忆录编辑、整理
+    
 * 心理学播客
     
 * 第一次读书会记录
@@ -61,41 +133,6 @@ tags: resume
         
     * AI + 教育（特别是英语）
         
-* 爷爷的回忆录编辑、整理
-    
-
-## 出没的地点/组织/社群
-
-### 现实空间
-
-* 上海 闵行区 虹桥商务区 冠捷大厦 2F D03 位置
-    
-
-### 数字空间
-
-论坛：
-
-* v2ex
-    
-* [齐思](https://news.miracleplus.com/feeds)：from 奇绩创坛
-    
-
-微信群：
-
-* XS Club
-    
-* Shirt.ai 蓝衫科技的 AI 社群
-    
-
-飞书群：
-
-* XSLAB
-    
-
-QQ群：
-
-* 杂七杂八俱乐部
-    
 
 ## Skills 技能
 
@@ -260,8 +297,6 @@ QQ群：
 
 * 书
     
-    * 施一公的《自我突围》
-        
     * 飞机设计那本
         
     * 元宇宙那个漫画
@@ -276,17 +311,6 @@ QQ群：
             
         * Rust
             
-
-## 想要随时了解我的动态
-
-* （推荐）使用 [Newsletter 订阅](https://ericji.hashnode.dev/newsletter)
-    
-* （推荐）使用 [RSS 订阅](https://ericji.hashnode.dev/rss.xml)
-    
-* 关注[我的 Twitter](https://twitter.com/Eric38251454)
-    
-* 关注微信公众号：Eric的猜想
-    
 
 ## 友情链接
 
