@@ -3,6 +3,7 @@ title: "元宇宙发展设想 EP 1 ——Eric 问星火答"
 datePublished: Sun May 21 2023 05:08:47 GMT+0000 (Coordinated Universal Time)
 cuid: clhwykij4000509l973sf69zh
 slug: meta-1
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/d1VHhofdTbk/upload/8682165afba1faa2614891f6dd27e1b4.jpeg
 tags: metaverse
 
 ---
