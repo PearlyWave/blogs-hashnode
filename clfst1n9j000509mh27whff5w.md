@@ -112,6 +112,8 @@ tags: resume
         
 * （todo）科大讯飞竞赛
     
+* （todo）孙文作品读书会
+    
 
 till 2030
 
