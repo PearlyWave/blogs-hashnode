@@ -33,7 +33,7 @@ tags: resume
 
 ## Basic Information 基本信息
 
-* Name: Eric Ji 吉翔
+* Name: 吉翔 Eric Ji。家谱中为吉（凤）翔。
     
 * Education: *2017.9~2021.6* Harbin Engineering University/HEU B.S. of Computer Science 哈尔滨工程大学计算机科学与技术专业的工学学士
     
@@ -71,7 +71,7 @@ tags: resume
 
 * （todo）云梯关书院
     
-* （todo）NGO of AI
+* （todo）NGO 提供新兴技术白皮书 with 邹一平
     
 * XS Club 交叉新领域俱乐部
     
@@ -79,32 +79,55 @@ tags: resume
     
 * 杂七杂八俱乐部
     
+* （todo）凤舞科技
+    
+* （todo）女性及性少数的心理资讯与疗愈
+    
+* （todo）乡村发展与民宿文旅
+    
 
 ### 成员
 
-* 蓝衫科技
+* 蓝衫科技 HR
     
 
 ### 合伙人
 
-* （todo）禾获仁
+* （todo）禾获仁 园区信息化平台
     
-* （todo）中芳联
+* （todo）中芳联 呼吸康养
     
-* （todo）NYUSH/上海纽约大学 教育产品
+* （todo）NYUSH/上海纽约大学 教育产品、协作产品
     
 
 ### 项目
 
+2023
+
 * （todo）上海图书馆竞赛
     
+    * 古籍/家谱 数字化
+        
+    * 加快知识传输速度
+        
 * （todo）科大讯飞竞赛
+    
+
+till 2030
+
+* （todo）银河港
     
 
 ### 志愿者
 
 * 斯坦福创业论坛（上海）- 会议记录团队
     
+* XMETA 元宇宙时空旅行 - 商务、活动策划、体验、推广、组团
+    
+
+### 顾问
+
+### 工作邀请
 
 ## Works 作品
 
@@ -293,7 +316,7 @@ tags: resume
 * 投影仪
     
 
-### 想买的/购物清单，欢迎送我 XD
+### 心愿清单(想买的东东），欢迎送我 XD
 
 * 书
     
@@ -305,12 +328,34 @@ tags: resume
         
     * 中国精神读本
         
-    * 英文书
+    * 原版教材
         
         * Python
             
         * Rust
             
+        * Progmatic Programer
+            
+* 车车（感兴趣的）
+    
+    * 福特 皮卡，野马
+        
+    * 越野车
+        
+    * 房车
+        
+    * 比亚迪
+        
+        * 海豹
+            
+        * 护卫舰
+            
+    * 问界
+        
+    * 理想
+        
+    * 特斯拉
+        
 
 ## 友情链接
 
