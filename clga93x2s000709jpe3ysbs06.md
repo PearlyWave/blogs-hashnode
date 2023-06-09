@@ -81,6 +81,8 @@ PS：本文使用 [GitHub](https://github.com/PearlyWave/blogs-hashnode/blob/mai
 
 * 1、李彬豪 Miles，10 元，2023年4月24日
     
+* 2、Ariel，10 元，2023年5月
+    
 
 ## 战略合作伙伴
 
