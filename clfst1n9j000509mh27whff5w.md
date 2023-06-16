@@ -9,22 +9,9 @@ tags: resume
 
 ---
 
-## Office Time 工作时间
-
-以下均为北京时间（UTC+8）
-
-* 周一 ～ 周五：tbd
-    
-* 周六：tbd
-    
-* 周日：tbd
-    
-
 ## Office 办公室地点
 
 1. 上海西：冠捷大厦（近虹桥火车站、虹桥商务区、会展中心）2F 办伴 联合办公位 D03
-    
-2. 上海南：临港浦江科技中心 18 栋（8号线 浦江镇地铁站）4F 禾获仁
     
 
 ## Brief Introduction **个人简介**
@@ -33,7 +20,7 @@ tags: resume
 
 ## Basic Information 基本信息
 
-* Name: 吉翔 Eric Ji。家谱中为吉（凤）翔。
+* Name: 吉翔 Eric Ji
     
 * Education: *2017.9~2021.6* Harbin Engineering University/HEU B.S. of Computer Science 哈尔滨工程大学计算机科学与技术专业的工学学士
     
@@ -108,30 +95,10 @@ tags: resume
 
 * （todo）上海图书馆竞赛
     
-    * 古籍/家谱 数字化
-        
-    * 加快知识传输速度
-        
 * （todo）科大讯飞竞赛
     
 * （todo）孙文作品读书会
     
-
-till 2030
-
-* （todo）银河港
-    
-
-### 志愿者
-
-* 斯坦福创业论坛（上海）- 会议记录团队
-    
-* XMETA 元宇宙时空旅行 - 商务、活动策划、体验、推广、组团
-    
-
-### 顾问
-
-### 工作邀请
 
 ## Works 作品
 
@@ -146,7 +113,7 @@ till 2030
 
 ### 制作中
 
-* 爷爷的回忆录编辑、整理
+* 爷爷の回忆录编辑、整理
     
 * 心理学播客
     
