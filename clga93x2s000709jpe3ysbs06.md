@@ -9,9 +9,11 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/oMpAz-DN-9I/up
 
 ---
 
+**本文太久未更新，不能反映最新情况，请注意！**
+
 ## 摘要
 
-XSLAB 关注产品创新、编程开发、教育教学、科技前沿资讯等领域。这篇文章介绍了响水实验室的发展方向、人数、创始人、主要领域、提供的服务和需要的资源，以及实验室成员的教育背景和企业经历。此外，文章还列举了实验室正在从事的事项和已经取得的成果，以及附属组织XS Club和ACGN Creation Lab。最后，作者感谢李彬豪的捐助。
+这篇文章介绍了响水实验室的发展方向、人数、创始人、主要领域、提供的服务和需要的资源，以及实验室成员的教育背景和企业经历。此外，文章还列举了实验室正在从事的事项和已经取得的成果，以及附属组织XS Club和ACGN Creation Lab。最后，作者感谢李彬豪的捐助。
 
 PS：本文使用 [GitHub](https://github.com/PearlyWave/blogs-hashnode/blob/main/clga93x2s000709jpe3ysbs06.md) 进行版本控制。
 
@@ -23,13 +25,13 @@ PS：本文使用 [GitHub](https://github.com/PearlyWave/blogs-hashnode/blob/mai
         
 * 当前人数：13
     
-* 创始人们: [吉翔 Eric Ji](https://ericji.hashnode.dev/about-me)、李彬豪 Miles Li、[洪文君 Winni Hong](https://cowyo30m53.feishu.cn/docx/WBQpd51fEooTi4x7g93c8eannOe)
+* 创始人们: [吉翔 Eric Ji](https://ericji.hashnode.dev/about-me)、[李彬豪 Miles Li](https://cowyo30m53.feishu.cn/docx/FzSZdW9r6o7jiax7w6Qc7mPQnSd)、[洪文君 Winni Hong](https://cowyo30m53.feishu.cn/docx/WBQpd51fEooTi4x7g93c8eannOe)
     
 * 当前主要的领域：**产品（大多软件）开发、人工智能研究、知识分享、教育教学、家乡（响水等）发展、公益活动**
     
-* 我们可以提供什么：研报、咨询、demo、培训/家教、企业合作、升学（国内外）规划和咨询、个人发展规划咨询、职业规划咨询、人工智能工具/软件（如ChatGPT国内使用版本）
+* 我们可以提供什么：实习机会、行业研报、原型制作、培训、家教、企业合作、升学（国内外）规划和咨询、个人发展规划咨询、职业规划咨询、人工智能工具/软件（如ChatGPT国内使用版本）
     
-* 我们需要什么：发展规划、有趣的项目、办公地点（场地）、企业/NGO/实验室/研究所注册、自媒体及主页、电脑、书籍、培训、期刊数据库、钱💰
+* 我们需要什么：钱💰、办公地点、NGO/实验室/研究所资质、自媒体及主页、电脑、书籍、培训、期刊数据库
     
 * XS 的含义：响水的拼音首字母为 XS 。本实验室有超过 60% （13个人中有8个）的成员来自响水。关于江苏省盐城市[响水](https://baike.baidu.com/item/%E5%93%8D%E6%B0%B4%E5%8E%BF)县。
     
@@ -66,22 +68,35 @@ PS：本文使用 [GitHub](https://github.com/PearlyWave/blogs-hashnode/blob/mai
     
     * 一个微信群，主要用于活动宣传、作品宣发以及成员的交流讨论
         
-    * 当前人数：31
+    * 当前人数：17
         
-* **杂七杂八俱乐部**
+    * 加入社群
+        
+* **ACGN Creation Lab**
     
-    * 一个结合数字与艺术的创作俱乐部，负责小说、漫画、电影、动漫、游戏、音乐等文化作品的开发
+    * 一个结合数字与艺术的创作俱乐部，负责小说、漫画、电影、动漫、游戏等文化作品的开发
         
-    * 当前人数：13
+    * 当前人数：10
         
 
-## 感谢捐赠
+## 附属组织
 
-我们会记录每一份捐助以其去向，非常感谢您的贡献与支持！
-
-* 1、李彬豪 Miles，10 元，2023年4月24日
+* 社群 **XS Club**
     
-* 2、Ariel，10 元，2023年5月
+    * 一个微信群，主要用于活动宣传、作品宣发以及成员的交流讨论
+        
+    * 当前人数：17
+        
+    * 加入社群
+        
+* **ACGN Creation Lab**
+    
+    * 一个结合数字与艺术的创作俱乐部，负责小说、漫画、电影、动漫、游戏等文化作品的开发
+        
+    * 当前人数：10
+        
+    
+    Miles，10 元，2023年4月24日
     
 
 ## 战略合作伙伴
